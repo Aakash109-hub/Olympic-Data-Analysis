@@ -1,1 +1,3 @@
-
+dt_analyser
+*.ipynb
+.ipynb_checkpoints/
