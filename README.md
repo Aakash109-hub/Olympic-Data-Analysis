@@ -1,6 +1,6 @@
 # Olympic Data Analysis Web Application
 
-This web application provides an interactive data analysis experience on historical Olympic data, including insights into medals, country-wise performance, athlete details, and much more. The app is built using **Streamlit** and deployed on Render.
+This web application provides an interactive data analysis experience on historical Olympic data, including insights into medals, country-wise performance, athlete details, and much more. The app is built using **Streamlit** and deployed on Render
 
 ### Web Application Link
 Access the app here: [Olympic Data Analysis](https://olympic-data-analysis-yxvv.onrender.com/)
